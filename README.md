@@ -1,4 +1,4 @@
-<!-- ========================================================= --><!--        🚀 KRISHNAKANTA — PREMIUM GITHUB PROFILE          --><!-- ========================================================= --><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Krishnakanta&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20in%20the%20Making&descAlignY=55&descSize=18" width="100%"/><br><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=800&lines=Aspiring+Software+Engineer+%F0%9F%9A%80;Full+Stack+Developer+%F0%9F%92%BB;AI%2FML+Enthusiast+%F0%9F%A4%96;DSA+%26+Problem+Solving+%F0%9F%A7%A0;Building+Real-World+Software+%E2%9C%A8;Always+Learning.+Always+Building." alt="Typing Animation"/><br><br>
+<!-- ========================================================= --><!--        🚀 KRISHNAKANTA — PREMIUM GITHUB PROFILE          --><!-- ========================================================= --><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Krishnakanta%20Khamrui&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20in%20the%20Making&descAlignY=55&descSize=18" width="100%"/><br><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=800&lines=Aspiring+Software+Engineer+%F0%9F%9A%80;Full+Stack+Developer+%F0%9F%92%BB;AI%2FML+Enthusiast+%F0%9F%A4%96;DSA+%26+Problem+Solving+%F0%9F%A7%A0;Building+Real-World+Software+%E2%9C%A8;Always+Learning.+Always+Building." alt="Typing Animation"/><br><br>
 
 <a href="https://github.com/KrishnakantaKhamrui">
 <img src="https://img.shields.io/badge/GitHub-KrishnakantaKhamrui-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -107,8 +107,21 @@ Dynamic Programming     ██████████████░░░░�
 
 📊 GitHub Analytics
 
-<div align="center"><img height="180" src="https://github-readme-stats.vercel.app/api?username=KrishnakantaKhamrui&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" /><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnakantaKhamrui&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" /></div>---
+<div align="center">
 
+<img
+  src="https://github-readme-stats-eight-theta.vercel.app/api?username=KrishnakantaKhamrui&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+  height="180"
+  alt="GitHub Stats"
+/>
+
+<img
+  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KrishnakantaKhamrui&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  height="180"
+  alt="Top Languages"
+/>
+
+</div>
 🔥 GitHub Streak
 
 <div align="center"><img src="https://streak-stats.demolab.com?user=KrishnakantaKhamrui&theme=tokyonight&hide_border=true" /></div>---
