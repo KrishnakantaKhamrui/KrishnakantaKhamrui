@@ -1,35 +1,191 @@
-<h1 align="center">Hi 👋, I'm KRISHNAKANTA KHAMRUI</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<!-- ========================================================= --><!--        🚀 KRISHNAKANTA — PREMIUM GITHUB PROFILE          --><!-- ========================================================= --><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Krishnakanta&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20in%20the%20Making&descAlignY=55&descSize=18" width="100%"/><br><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=800&lines=Aspiring+Software+Engineer+%F0%9F%9A%80;Full+Stack+Developer+%F0%9F%92%BB;AI%2FML+Enthusiast+%F0%9F%A4%96;DSA+%26+Problem+Solving+%F0%9F%A7%A0;Building+Real-World+Software+%E2%9C%A8;Always+Learning.+Always+Building." alt="Typing Animation"/><br><br>
 
-- 🌱 I’m currently learning : **Student of Computer Science Engineering**
+<a href="https://github.com/KrishnakantaKhamrui">
+<img src="https://img.shields.io/badge/GitHub-KrishnakantaKhamrui-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a><a href="https://www.linkedin.com/in/krishnakanta-khamrui-1341a7371">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a><a href="mailto:krishnakantakhamrui3@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a><br><br>
 
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/dev.username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.username" height="30" width="40" /></a>
-<a href="https://twitter.com/twitter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/krishnakanta-khamrui-1341a7371" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishnakanta khamrui" height="30" width="40" /></a>
-<a href="https://fb.com/facebook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com" height="30" width="40" /></a>
-<a href="https://instagram.com/instagram.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/leetcode.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode.com" height="30" width="40" /></a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=KrishnakantaKhamrui&label=PROFILE+VIEWS&color=36BCF7&style=flat-square"/></div>--
 
-<h3 align="left">💻 Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+🧑‍💻 About Me
 
-<!-- Snake Game Repo View -->
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Turning+Ideas+into+Working+Software+%F0%9F%92%A1;Building+Projects+That+Solve+Real+Problems+%F0%9F%9A%80;Breaking+Problems+into+Smaller+Solutions+%F0%9F%A7%A0;Learning+How+Great+Software+is+Built+%F0%9F%8F%97%EF%B8%8F;Growing+One+Commit%2C+One+Project+at+a+Time+%E2%9C%A8" alt="About Me Animation"/></div>I'm a Computer Science & Engineering student who enjoys turning ideas into practical software. I like solving challenging problems, building real-world projects, and exploring how technology can be used to create useful solutions.
 
-<!----------Trophys------>
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=krishnakantakhamrui&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-<!--------<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishnakantakhamrui" alt="krishnakantakhamrui" /></a> </p>------------->
+Currently, I'm a Student of Computer Science & Engineering focused on fundamentals, problem-solving skills, full-stack development, and AI/ML knowledge while continuously building and learning.
 
-## 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnakantakhamrui&show_icons=true&locale=en&layout=compact" alt="krishnakantakhamrui" /></p>
+«🚀 Build with purpose. Learn with curiosity. Improve every day.»
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishnakantakhamrui&show_icons=true&locale=en" alt="krishnakantakhamrui" /></p>
+🚀 What I Do
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnakantakhamrui&" alt="krishnakantakhamrui" /></p>
+- 💻 Build software and web applications
+- 🧠 Practice Data Structures & Algorithms
+- 🤖 Explore AI / ML
+- 🌐 Build real-world projects
+- 📚 Continuously learn new technologies
+- 🏗️ Focus on writing clean and maintainable code
 
+🎯 Currently Working Toward
+
+- 👨‍💻 Becoming industry-ready as a Software Engineer
+- 🧩 Improving DSA and problem-solving skills
+- 🌐 Building production-ready full-stack applications
+- 🏗️ Learning System Design
+- ☁️ Exploring Cloud & DevOps
+- 🌎 Contributing to Open Source
+
+«💡 I love turning ideas into real-world software.»---
+
+⚡ Tech Stack
+
+💻 Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,java,python,javascript" />
+</p>🌐 Web Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express" />
+</p>🗄️ Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>🛠️ Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>☁️ Exploring
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker" />
+</p>---
+
+🚀 Featured Projects
+
+<!--🌾 AI Crop Disease Detection & Smart Advisory
+
+An AI-powered application designed to help identify crop diseases and provide smart agricultural guidance.
+
+Tech Stack
+
+"AI/ML" "Python" "JavaScript" "Frontend" "Backend"
+
+🔗 "View Project" (YOUR_CROP_PROJECT_LINK)-->
+
+---
+
+💼 Developer Portfolio
+
+A modern portfolio website showcasing my projects, skills, achievements and software engineering journey.
+
+<!---Tech Stack
+
+"HTML" "CSS" "JavaScript" "React"
+
+🔗 "View Project" (PORTFOLIO_LINK)--->
+
+---
+
+<!--🧠 DSA & Problem Solving
+
+I continuously practice Data Structures & Algorithms to improve my problem-solving and coding skills.
+
+Arrays & Strings       ████████████████████  90%
+Linked Lists            ██████████████████░░  85%
+Stacks & Queues         ██████████████████░░  85%
+Trees                   █████████████████░░░  80%
+Graphs                  ████████████████░░░░  75%
+Searching & Sorting     ██████████████████░░  85%
+Recursion               ████████████████░░░░  75%
+Dynamic Programming     ██████████████░░░░░░  65%
+
+«🧩 One problem at a time. One improvement every day.»--->
+
+---
+
+📊 GitHub Analytics
+
+<div align="center"><img height="180" src="https://github-readme-stats.vercel.app/api?username=KrishnakantaKhamrui&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" /><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnakantaKhamrui&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" /></div>---
+
+🔥 GitHub Streak
+
+<div align="center"><img src="https://streak-stats.demolab.com?user=KrishnakantaKhamrui&theme=tokyonight&hide_border=true" /></div>---
+
+🐍 Contribution Snake
+
+<div align="center"><img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" /></div>---
+
+🏆 GitHub Achievements
+
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=KrishnakantaKhamrui&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" /></div>---
+
+📈 My Developer Journey
+
+                ┌──────────────┐
+                │    LEARN     │
+                └──────┬───────┘
+                       ↓
+                ┌──────────────┐
+                │    BUILD     │
+                └──────┬───────┘
+                       ↓
+                ┌──────────────┐
+                │    BREAK     │
+                └──────┬───────┘
+                       ↓
+                ┌──────────────┐
+                │    DEBUG     │
+                └──────┬───────┘
+                       ↓
+                ┌──────────────┐
+                │   IMPROVE    │
+                └──────┬───────┘
+                       ↓
+                ┌──────────────┐
+                │    REPEAT 🔁 │
+                └──────────────┘
+
+---
+
+🎯 2026 Goals
+
+- [ ] 🚀 Become industry-ready as a Software Engineer
+- [ ] 🧠 Master Data Structures & Algorithms
+- [ ] 🌐 Build production-level full-stack applications
+- [ ] 🤖 Build meaningful AI-powered projects
+- [ ] 🏗️ Learn System Design
+- [ ] ☁️ Learn Cloud & DevOps fundamentals
+- [ ] 🌎 Contribute to Open Source
+- [ ] 💼 Land a Software Engineering role
+
+---
+
+📚 Currently Learning
+
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Structures+%26+Algorithms;Full+Stack+Development;Artificial+Intelligence+%26+Machine+Learning;System+Design;Cloud+%26+DevOps;Software+Engineering" alt="Currently Learning"/></div>---
+
+💻 Developer Philosophy
+
+<div align="center">""Code. Learn. Build. Repeat.""
+
+<br>Don't just write code.
+
+Build something people can use. 🚀
+
+</div>---
+
+🤝 Let's Connect
+
+<div align="center"><a href="https://www.linkedin.com/in/krishnakanta-khamrui-1341a7371">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a><a href="mailto:krishnakantakhamrui3@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a><a href="https://github.com/KrishnakantaKhamrui">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a></div>---
+
+<div align="center">⭐ Thanks for visiting my profile!
+
+<div align="center"><br><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=140&section=footer" width="100%"/></div>
