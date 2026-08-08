@@ -186,6 +186,8 @@ Build something people can use. 🚀
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a></div>---
 
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=700&color=36BCF7&center=true&vCenter=true&width=650&lines=%E2%9C%A8+Let's+Build+Something+Amazing+Together+%E2%9C%A8;%F0%9F%92%BB+Open+to+Learning+%26+Collaboration;%F0%9F%9A%80+Always+Building.+Always+Improving." alt="Connect Animation"/></div>
+
 <div align="center">⭐ Thanks for visiting my profile!
 
 <div align="center"><br><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=140&section=footer" width="100%"/></div>
